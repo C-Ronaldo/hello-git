@@ -1,3 +1,2 @@
-# hello-git
-about build a duty
-
+总结几点关于定位方面的问题：
+1、
