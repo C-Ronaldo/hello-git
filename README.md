@@ -13,6 +13,47 @@ _____________________
 
 二、 列表 
 
-列表格式也很常用，它可以让你的文稿变得井井有条。在 Markdown 中，你只需要在文字前面加上 - 就可以了；如果你希望是有序列表，在文字前面加上 1. 2. 3. 即可。
+列表格式也很常用，它可以让你的文稿变得井井有条。在 Markdown 中，你只需要在文字前面加上 - 就可以了；如果你希望是有序列表，在文字前面加上 1. 2. 3. 即可。如图：
 
-三、 文本 
+![](http://note.youdao.com/iyoudao/wp-content/uploads/2016/09/2-1-%E5%88%97%E8%A1%A8.png)
+
+
+三、 引用
+
+如果你需要在文稿中引用一段别处的句子，那么就要用到「引用」格式。
+
+在引用文字前加上 > 并与文字保留一个字符的空格，即可。
+
+![](http://note.youdao.com/iyoudao/wp-content/uploads/2016/09/2-2%E5%BC%95%E7%94%A8.png)
+
+四、粗体和斜体
+
+Markdown 的粗体和斜体也非常简单：
+
+用两个 * 包含一段文本就是粗体的语法；
+
+用一个 * 包含一段文本就是斜体的语法
+
+![](http://note.youdao.com/iyoudao/wp-content/uploads/2016/09/2-3-%E7%B2%97%E4%BD%93%E6%96%9C%E4%BD%93.png)
+
+五、链接与图片
+
+链接：在 Markdown 中，插入链接只需要使用 [显示文本](链接地址) 即可。
+
+图片：在 Markdown 中，插入图片只需要使用 ![显示文本](图片链接地址)即可。
+
+注：插入图片的语法和链接的语法很像，只是前面多了一个 ！
+
+![](http://note.youdao.com/iyoudao/wp-content/uploads/2016/09/2-4%E9%93%BE%E6%8E%A5%E4%B8%8E%E5%9B%BE%E7%89%87.png)
+
+六、分割线的语法只需要另起一行，连续输入三个星号 *** 即可分割两段文字内容。
+
+如图：
+
+![](http://note.youdao.com/iyoudao/wp-content/uploads/2016/09/2-5-%E5%88%86%E5%89%B2%E7%BA%BF.png)
+
+七、 表格
+
+当你需要在Markdown文稿中键入表格，代码如下：
+
+![](http://note.youdao.com/iyoudao/wp-content/uploads/2016/09/2-6%E8%A1%A8%E6%A0%BC.png)
